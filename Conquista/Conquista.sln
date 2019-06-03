@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conquista", "Conquista.csproj", "{BA8500F4-3CA8-4BC4-A742-3D76668CC5FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConquista", "..\TestConquista\TestConquista.csproj", "{C4A73E3C-9484-4F3B-8FC3-AC82E0455753}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestConquista", "..\UnitTestConquista\UnitTestConquista.csproj", "{3ACF4B8E-F598-49AB-9104-219CD7454C0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{BA8500F4-3CA8-4BC4-A742-3D76668CC5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA8500F4-3CA8-4BC4-A742-3D76668CC5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA8500F4-3CA8-4BC4-A742-3D76668CC5FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4A73E3C-9484-4F3B-8FC3-AC82E0455753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4A73E3C-9484-4F3B-8FC3-AC82E0455753}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4A73E3C-9484-4F3B-8FC3-AC82E0455753}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4A73E3C-9484-4F3B-8FC3-AC82E0455753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ACF4B8E-F598-49AB-9104-219CD7454C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACF4B8E-F598-49AB-9104-219CD7454C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACF4B8E-F598-49AB-9104-219CD7454C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACF4B8E-F598-49AB-9104-219CD7454C0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

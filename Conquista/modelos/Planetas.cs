@@ -5,34 +5,13 @@ using System.IO;
 
 namespace Conquista.modelos
 {
-    class Planetas
+    public class Planetas
     {
         private List<Planeta> planetas = new List<Planeta>();
         private int Numplanetas;
         public Planetas()
         {
             this.Numplanetas = 0;
-        }
-
-        public List<Planeta> getplanetas()
-        {
-            return this.planetas;
-        }
-
-
-        public int GetNumplanetas()
-        {
-            return this.Numplanetas;
-        }
-
-        public List<Rebeldes> GetRebeldes(int i)
-        {
-            return planetas[i].GetRebeldes();
-
-        }
-
-        public int GetNumRebels(int i) {
-            return planetas[i].GetNumREbels();
         }
 
         public void AddPlaneta(String nomp)

@@ -5,21 +5,13 @@ using System.Text;
 namespace Conquista.modelos
 {
     
-    class Lrebeldes
+    public class Lrebeldes
     {
         private List<Rebeldes> rebeldes = new List<Rebeldes>();
         private int NumRebels;
 
         public Lrebeldes() {
             this.NumRebels = 0;
-        }
-
-        public List<Rebeldes> GetRebeldes() {
-            return rebeldes;
-        }
-
-        public int GetNumRebels() {
-            return NumRebels;
         }
 
         public void AddRebel(Rebeldes r) {

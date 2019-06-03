@@ -9,3 +9,6 @@ C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\Conquista.dll
 C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\Conquista.pdb
 C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.dll
 C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.pdb
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll

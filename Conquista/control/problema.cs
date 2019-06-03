@@ -5,7 +5,7 @@ using Conquista.modelos;
 
 namespace Conquista.control
 {
-    class problema
+    public class problema
     {
         Planetas p = new Planetas();
         public problema() { }

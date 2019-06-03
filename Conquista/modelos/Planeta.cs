@@ -5,7 +5,7 @@ using System.Text;
 namespace Conquista.modelos
 { 
     
-    class Planeta
+    public class Planeta
     {
         private String Nom;
         private Lrebeldes l;
@@ -28,19 +28,11 @@ namespace Conquista.modelos
 
         }
 
-        public List<Rebeldes> GetRebeldes() {
-            return l.GetRebeldes();
-        }
-
-        public int GetNumREbels() {
-            return l.GetNumRebels();
-        }
 
         public void SetRebel(String nom, DateTime date)
         {
             Rebeldes r = new Rebeldes(nom);
             r.SetDate(date);
-            r.SetTrobat(true);
             l.AddRebel(r);
         }
 
