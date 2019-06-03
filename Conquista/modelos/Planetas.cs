@@ -105,6 +105,22 @@ namespace Conquista.modelos
             p.MostrarRebeldes();
         }
 
+        public void findRebel()
+        {
+            Console.WriteLine("Escribe el nombre del rebelde");
+            String nomr = Console.ReadLine();
+            bool trobat = false;
+            int i = 0;
+            while (!trobat && i < Numplanetas) {
+                if (planetas[i].BuscarRebel(nomr))
+                {
+                    trobat = true;
+                    Console.WriteLine(planetas[i].GetNom());
+                }
+                ++i;
+            }
+        }
+
         private Planeta Planeta(String nomp) {
             for (int i = 0; i < Numplanetas; ++i)
             {

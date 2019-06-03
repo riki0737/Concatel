@@ -28,8 +28,10 @@ namespace Conquista.modelos
         }
 
         public bool FindRebel(String nomr) {
+            for (int i = 0; i < NumRebels; ++i) {
+                if (nomr == rebeldes[i].GetName()) return true;
+            }
             return false;
-
         }
 
         public void MostrarRebeldes() {

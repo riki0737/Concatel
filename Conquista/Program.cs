@@ -31,7 +31,12 @@ namespace Conquista
                 {
                     p.AddRebelde();
                 }
-                else if (n == 4) {
+                else if (n == 2)
+                {
+                    p.findRebel();
+                }
+                else if (n == 3)
+                {
                     p.MostrarRebeldes();
                 }
                 Console.WriteLine();

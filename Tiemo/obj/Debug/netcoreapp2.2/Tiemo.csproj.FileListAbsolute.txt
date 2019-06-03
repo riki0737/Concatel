@@ -1,0 +1,11 @@
+C:\Users\ricar\source\repos\Tiemo\bin\Debug\netcoreapp2.2\Tiemo.deps.json
+C:\Users\ricar\source\repos\Tiemo\bin\Debug\netcoreapp2.2\Tiemo.runtimeconfig.json
+C:\Users\ricar\source\repos\Tiemo\bin\Debug\netcoreapp2.2\Tiemo.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\Tiemo\bin\Debug\netcoreapp2.2\Tiemo.dll
+C:\Users\ricar\source\repos\Tiemo\bin\Debug\netcoreapp2.2\Tiemo.pdb
+C:\Users\ricar\source\repos\Tiemo\obj\Debug\netcoreapp2.2\Tiemo.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\Tiemo\obj\Debug\netcoreapp2.2\Tiemo.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Tiemo\obj\Debug\netcoreapp2.2\Tiemo.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\Tiemo\obj\Debug\netcoreapp2.2\Tiemo.AssemblyInfo.cs
+C:\Users\ricar\source\repos\Tiemo\obj\Debug\netcoreapp2.2\Tiemo.dll
+C:\Users\ricar\source\repos\Tiemo\obj\Debug\netcoreapp2.2\Tiemo.pdb

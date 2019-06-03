@@ -27,11 +27,17 @@ namespace Conquista.control
 
         }
 
+        public void findRebel()
+        {
+            p.findRebel();
+        }
+
         public void MostrarOpciones()
         {
             Console.WriteLine("Qué quieres hacer?");
             Console.WriteLine("1: He cogido un rebelde");
-            Console.WriteLine("4: Mirar los rebeldes de un planeta");
+            Console.WriteLine("2: Buscar un rebelde");
+            Console.WriteLine("3: Mirar los rebeldes de un planeta");
         }
     }
 }
