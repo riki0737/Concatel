@@ -1,0 +1,2 @@
+En todos los casos el multithreading es inexistente, dado que todos los algoritmos son básicos, sencillos,el tiempo de ejecución no es elevado. Los proyectos no utilizan demasiado la CPU.
+En el caso del FizzBuzz se podría utilizar en el bucle principal, pero el overhead que se crearía empeoraría el tiempo de ejecución del programa. 
