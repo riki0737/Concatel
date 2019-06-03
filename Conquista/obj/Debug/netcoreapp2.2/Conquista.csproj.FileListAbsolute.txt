@@ -1,0 +1,11 @@
+C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.AssemblyInfo.cs
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\Conquista.deps.json
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\Conquista.runtimeconfig.json
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\Conquista.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\Conquista.dll
+C:\Users\ricar\source\repos\Conquista\bin\Debug\netcoreapp2.2\Conquista.pdb
+C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.dll
+C:\Users\ricar\source\repos\Conquista\obj\Debug\netcoreapp2.2\Conquista.pdb
